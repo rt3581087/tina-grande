@@ -1,0 +1,19 @@
+{
+  "path": "/blog",
+  "title": "Blog",
+  "pageType": "list",
+  "listType": "post",
+  "hero": {
+    "image": "../images/coffee-beans.jpg",
+    "large": true,
+    "overlay": true,
+    "headline": "test",
+    "textline": "test",
+    "ctas": [
+      {
+        "label": "an action",
+        "link": "t"
+      }
+    ]
+  }
+}
